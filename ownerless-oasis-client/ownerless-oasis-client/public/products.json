@@ -1,0 +1,79 @@
+[
+    {
+        "name":"Awesome Class Model",
+        "price":"120000",
+        "rating":"5",
+        "details":"A masterful combination of style, power, sporty handling and comfort.",
+        "condition":"new",
+        "stock":"available",
+        "review":"9",
+        "img":"https://i.ibb.co/37vpyf6/5.jpg"
+
+    },
+    {
+        "name":"Awesome Class Model",
+        "price":"120000",
+        "rating":"5",
+        "details":"A masterful combination of style, power, sporty handling and comfort.",
+        "condition":"new",
+        "stock":"available",
+        "review":"9",
+        "img":"https://i.ibb.co/jGqDTYY/6.jpg"
+
+    },
+    {
+        "name":"Awesome Class Model",
+        "price":"120000",
+        "rating":"5",
+        "details":"A masterful combination of style, power, sporty handling and comfort.",
+        "condition":"new",
+        "stock":"available",
+        "review":"9",
+        "img":"https://i.ibb.co/d7rWT49/9.jpg"
+
+    },
+    {
+        "name":"Awesome Class Model",
+        "price":"120000",
+        "rating":"5",
+        "details":"A masterful combination of style, power, sporty handling and comfort.",
+        "condition":"new",
+        "stock":"available",
+        "review":"9",
+        "img":"https://i.ibb.co/TLj4wvx/car17.jpg"
+
+    },
+    {
+        "name":"Awesome Class Model",
+        "price":"120000",
+        "rating":"5",
+        "details":"A masterful combination of style, power, sporty handling and comfort.",
+        "condition":"new",
+        "stock":"available",
+        "review":"9",
+        "img":"https://i.ibb.co/X8pV9HB/1.jpg"
+
+    },
+    {
+        "name":"bmw",
+        "price":"120000",
+        "rating":"5",
+        "details":"A masterful combination of style, power, sporty handling and comfort.",
+        "condition":"new",
+        "stock":"available",
+        "review":"9",
+        "img":"https://i.ibb.co/PjmydCH/4.jpg"
+
+    },
+    {
+        "name":"Awesome Class Model",
+        "price":"120000",
+        "rating":"5",
+        "details":"A masterful combination of style, power, sporty handling and comfort.",
+        "condition":"new",
+        "stock":"available",
+        "review":"9",
+        "img":"https://i.ibb.co/XyHtLvW/3.jpg"
+
+    }
+]

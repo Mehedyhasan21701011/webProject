@@ -1,0 +1,9 @@
+.mini {
+    border: 1px solid navy;
+}
+.mini:hover {
+    background-color: goldenrod;
+}
+.mini:hover:name{
+    color: aqua;
+}

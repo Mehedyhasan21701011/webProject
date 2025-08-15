@@ -1,0 +1,14 @@
+.photo:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    border: 1rem;
+    border-color: darkgoldenrod;
+    /* rotate: (30deg); */
+}
+ .poly {
+    clip-path: polygon(0 0, 100% 0, 100% 79%, 51% 100%, 50% 100%, 0 79%);
+
+ }
+ .offer:hover{
+    color: rosybrown;
+ }

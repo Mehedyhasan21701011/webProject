@@ -1,0 +1,46 @@
+@media (max-width:450px) {
+    .home-container{
+        display: grid;
+        grid-template-columns: 1fr;
+
+    }
+    .nav{
+        position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 4rem;
+      padding: 0 1rem;
+      display: flex;
+      align-content: center;
+      transition: .4s;
+      margin-left: 2rem;
+  
+      
+    }
+    .first{
+        border-radius: 3rem;
+    }
+    .updateButton{
+        width: 400px;
+    }
+    .employee{
+        margin-bottom: 4rem;
+    }
+   .navLink{
+    margin-right: 2rem;
+    align-items: center;
+    margin-top: 2rem;
+   }
+   .hide{
+    display: none;
+   }
+    .lastSection{
+        display: none;
+    }
+
+}
+.home-container{
+    padding: 1rem;
+    border-radius: 1rem;
+}
