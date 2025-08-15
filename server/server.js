@@ -86,6 +86,8 @@ app.get('/products', (req ,res)=>{
   })
 
 })
+
+
 app.get('/salesreport', (req ,res)=>{
   const sql ="select* from orderdetails";
   db.query(sql ,(err , result)=>{
