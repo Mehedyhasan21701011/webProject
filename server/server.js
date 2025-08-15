@@ -14,7 +14,7 @@ const db = mysql.createConnection({
   user: 'root',
   password: '',
   database: 'oasis',
-  port: 3307,
+  port: 3306,
 });
 
 app.post('/signup', (req, res) => {
